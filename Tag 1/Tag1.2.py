@@ -99,5 +99,4 @@ for line in lines:
 
     nummer = str(first_number) + str(last_number)
     gesamtsumme += int(nummer)
-
-print("Gesamtsumme: " + str(gesamtsumme))
+    print("Gesamtsumme: " + str(gesamtsumme))
